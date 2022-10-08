@@ -8,4 +8,4 @@ App to bet on an object to get a chance of winning it
 
 
 
-# This ist just the fontend of the project => backend is following 
+# This ist just the Frontend of the project => Backend is following.
