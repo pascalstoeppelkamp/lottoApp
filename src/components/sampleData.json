@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name": "Mercedes Benz Amg 64",
+    "price": 42000,
+    "type": "sportscar",
+    "betPrice": 500,
+    "image":"./images/mercedes.jpg"
+  },
+  {
+    "id":2,
+    "name": "House",
+    "price": 500000,
+    "type": "house",
+    "betPrice": 20000,
+    "image":"./images/house.jpg"
+  },
+  {
+    "id":3,
+    "name": "Apple Watch 4 GPS 44mm",
+    "price": 300,
+    "type": "smartwatch",
+    "betPrice": 1,
+    "image":"./images/appleWatch.jpg"
+  }
+]
