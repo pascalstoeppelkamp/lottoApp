@@ -6,7 +6,6 @@ import {
 } from "react-router-dom";
 
 import Home from "./Home";
-import DynamicPage from "./DynamicPage";
 import NoMatch from "./NoMatch";
 
 const App = () => {
@@ -15,7 +14,6 @@ const App = () => {
       <div>
         <Switch>
           <Route path="/" element={<Home />} />
-          <Route path="/dynamic" element={<DynamicPage />} />
           <Route element={<NoMatch />} />
         </Switch>
       </div>

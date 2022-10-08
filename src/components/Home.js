@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
 
 import Layout from "./Layout";
 import testData from "./sampleData.json";
@@ -27,9 +26,6 @@ const Home = () => {
         src={arr[CounterNumber]}
       />
       <p>Hello World of React and Webpack!</p>
-      <p>
-        <Link to="/dynamic">Navigate to Dynamic Page</Link>
-      </p>
     </Layout>
   );
 };
